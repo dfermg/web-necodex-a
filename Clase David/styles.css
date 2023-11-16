@@ -1,0 +1,26 @@
+/* Selector por medio de etiqueta */
+img{
+    width: 300px;
+    margin: 0 auto;
+}
+p{
+    color: purple;
+    font-size: 38px;
+}
+h1{
+    color: magenta;
+}
+
+/* Selector por medio de clase */
+.patito{
+    color: rgb(190, 190, 108)
+}
+
+/* Selector por medio de ID */
+#mi-info-personal{
+    background-color: aqua;
+}
+
+#info-otras-cosas p{
+    color: red;
+}
